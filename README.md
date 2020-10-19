@@ -18,9 +18,9 @@ Required datasets:
 * name.tsv
 * title.tsv
 * IMDb movies.csv 
-* movies_metadata.csv*
-* cast.csv*
-* IMDb ratings.csv*
+* movies_metadata.csv
+* cast.csv
+* IMDb ratings.csv
 
 Please run Jupyter Notebook files in exact order:
 1. extract.ipynb
