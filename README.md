@@ -15,12 +15,12 @@ https://drive.google.com/drive/folders/1a_Ot_xloD-2mZQhzNvMSPQK6MGsnqbvb?usp=sha
 ***
 
 Required datasets:
-**name.tsv**
-**title.tsv**
-**IMDb movies.csv** 
-**movies_metadata.csv**
-**cast.csv**
-**IMDb ratings.csv**
+* name.tsv
+* title.tsv
+* IMDb movies.csv 
+* movies_metadata.csv*
+* cast.csv*
+* IMDb ratings.csv*
 
 Please run Jupyter Notebook files in exact order:
 1. extract.ipynb
