@@ -1,4 +1,4 @@
-# BigData_movie
+# Big Data in modern Movie Dataset
 
 ### RMIT University in Vietnam
 ### Course: EEET2574 Big Data in Engineering
@@ -25,3 +25,5 @@ Please run Jupyter Notebook files in exact order:
 2. data.ipynb
 3. statistic.ipynb
 4. modeling.ipynb
+
+### This project is to classify the movie ROI rate and predict the revenue in online movie dataset of IMDb and TMDb from 1980 to 2017
