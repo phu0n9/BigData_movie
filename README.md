@@ -28,3 +28,4 @@ Please run Jupyter Notebook files in exact order:
 3. statistic.ipynb
 4. modeling.ipynb
 
+Please find pdf file for the report
